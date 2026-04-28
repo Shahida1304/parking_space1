@@ -1,0 +1,410 @@
+[
+    {
+        "slot": 1,
+        "status": "empty"
+    },
+    {
+        "slot": 2,
+        "status": "occupied"
+    },
+    {
+        "slot": 3,
+        "status": "empty"
+    },
+    {
+        "slot": 4,
+        "status": "occupied"
+    },
+    {
+        "slot": 5,
+        "status": "occupied"
+    },
+    {
+        "slot": 6,
+        "status": "occupied"
+    },
+    {
+        "slot": 7,
+        "status": "occupied"
+    },
+    {
+        "slot": 8,
+        "status": "occupied"
+    },
+    {
+        "slot": 9,
+        "status": "empty"
+    },
+    {
+        "slot": 10,
+        "status": "occupied"
+    },
+    {
+        "slot": 11,
+        "status": "empty"
+    },
+    {
+        "slot": 12,
+        "status": "occupied"
+    },
+    {
+        "slot": 13,
+        "status": "occupied"
+    },
+    {
+        "slot": 14,
+        "status": "occupied"
+    },
+    {
+        "slot": 15,
+        "status": "empty"
+    },
+    {
+        "slot": 16,
+        "status": "occupied"
+    },
+    {
+        "slot": 17,
+        "status": "empty"
+    },
+    {
+        "slot": 18,
+        "status": "empty"
+    },
+    {
+        "slot": 19,
+        "status": "empty"
+    },
+    {
+        "slot": 20,
+        "status": "occupied"
+    },
+    {
+        "slot": 21,
+        "status": "empty"
+    },
+    {
+        "slot": 22,
+        "status": "occupied"
+    },
+    {
+        "slot": 23,
+        "status": "occupied"
+    },
+    {
+        "slot": 24,
+        "status": "occupied"
+    },
+    {
+        "slot": 25,
+        "status": "occupied"
+    },
+    {
+        "slot": 26,
+        "status": "occupied"
+    },
+    {
+        "slot": 27,
+        "status": "occupied"
+    },
+    {
+        "slot": 28,
+        "status": "occupied"
+    },
+    {
+        "slot": 29,
+        "status": "occupied"
+    },
+    {
+        "slot": 30,
+        "status": "empty"
+    },
+    {
+        "slot": 31,
+        "status": "occupied"
+    },
+    {
+        "slot": 32,
+        "status": "empty"
+    },
+    {
+        "slot": 33,
+        "status": "occupied"
+    },
+    {
+        "slot": 34,
+        "status": "occupied"
+    },
+    {
+        "slot": 35,
+        "status": "occupied"
+    },
+    {
+        "slot": 36,
+        "status": "occupied"
+    },
+    {
+        "slot": 37,
+        "status": "empty"
+    },
+    {
+        "slot": 38,
+        "status": "occupied"
+    },
+    {
+        "slot": 39,
+        "status": "occupied"
+    },
+    {
+        "slot": 40,
+        "status": "occupied"
+    },
+    {
+        "slot": 41,
+        "status": "occupied"
+    },
+    {
+        "slot": 42,
+        "status": "occupied"
+    },
+    {
+        "slot": 43,
+        "status": "empty"
+    },
+    {
+        "slot": 44,
+        "status": "occupied"
+    },
+    {
+        "slot": 45,
+        "status": "empty"
+    },
+    {
+        "slot": 46,
+        "status": "occupied"
+    },
+    {
+        "slot": 47,
+        "status": "occupied"
+    },
+    {
+        "slot": 48,
+        "status": "occupied"
+    },
+    {
+        "slot": 49,
+        "status": "empty"
+    },
+    {
+        "slot": 50,
+        "status": "empty"
+    },
+    {
+        "slot": 51,
+        "status": "occupied"
+    },
+    {
+        "slot": 52,
+        "status": "occupied"
+    },
+    {
+        "slot": 53,
+        "status": "empty"
+    },
+    {
+        "slot": 54,
+        "status": "occupied"
+    },
+    {
+        "slot": 55,
+        "status": "occupied"
+    },
+    {
+        "slot": 56,
+        "status": "empty"
+    },
+    {
+        "slot": 57,
+        "status": "occupied"
+    },
+    {
+        "slot": 58,
+        "status": "occupied"
+    },
+    {
+        "slot": 59,
+        "status": "empty"
+    },
+    {
+        "slot": 60,
+        "status": "occupied"
+    },
+    {
+        "slot": 61,
+        "status": "occupied"
+    },
+    {
+        "slot": 62,
+        "status": "empty"
+    },
+    {
+        "slot": 63,
+        "status": "occupied"
+    },
+    {
+        "slot": 64,
+        "status": "empty"
+    },
+    {
+        "slot": 65,
+        "status": "empty"
+    },
+    {
+        "slot": 66,
+        "status": "occupied"
+    },
+    {
+        "slot": 67,
+        "status": "occupied"
+    },
+    {
+        "slot": 68,
+        "status": "occupied"
+    },
+    {
+        "slot": 69,
+        "status": "empty"
+    },
+    {
+        "slot": 70,
+        "status": "occupied"
+    },
+    {
+        "slot": 71,
+        "status": "occupied"
+    },
+    {
+        "slot": 72,
+        "status": "empty"
+    },
+    {
+        "slot": 73,
+        "status": "occupied"
+    },
+    {
+        "slot": 74,
+        "status": "occupied"
+    },
+    {
+        "slot": 75,
+        "status": "empty"
+    },
+    {
+        "slot": 76,
+        "status": "occupied"
+    },
+    {
+        "slot": 77,
+        "status": "empty"
+    },
+    {
+        "slot": 78,
+        "status": "occupied"
+    },
+    {
+        "slot": 79,
+        "status": "occupied"
+    },
+    {
+        "slot": 80,
+        "status": "occupied"
+    },
+    {
+        "slot": 81,
+        "status": "occupied"
+    },
+    {
+        "slot": 82,
+        "status": "occupied"
+    },
+    {
+        "slot": 83,
+        "status": "empty"
+    },
+    {
+        "slot": 84,
+        "status": "occupied"
+    },
+    {
+        "slot": 85,
+        "status": "occupied"
+    },
+    {
+        "slot": 86,
+        "status": "occupied"
+    },
+    {
+        "slot": 87,
+        "status": "occupied"
+    },
+    {
+        "slot": 88,
+        "status": "occupied"
+    },
+    {
+        "slot": 89,
+        "status": "empty"
+    },
+    {
+        "slot": 90,
+        "status": "occupied"
+    },
+    {
+        "slot": 91,
+        "status": "occupied"
+    },
+    {
+        "slot": 92,
+        "status": "occupied"
+    },
+    {
+        "slot": 93,
+        "status": "occupied"
+    },
+    {
+        "slot": 94,
+        "status": "empty"
+    },
+    {
+        "slot": 95,
+        "status": "empty"
+    },
+    {
+        "slot": 96,
+        "status": "occupied"
+    },
+    {
+        "slot": 97,
+        "status": "occupied"
+    },
+    {
+        "slot": 98,
+        "status": "occupied"
+    },
+    {
+        "slot": 99,
+        "status": "occupied"
+    },
+    {
+        "slot": 100,
+        "status": "empty"
+    },
+    {
+        "slot": 101,
+        "status": "empty"
+    },
+    {
+        "slot": 102,
+        "status": "occupied"
+    }
+]

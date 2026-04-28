@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Smart Parking Detection</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='style.css') }}"
+    />
+  </head>
+
+  <body>
+    <div class="container">
+      <h1>Smart Parking Slot Detection</h1>
+
+      <form method="POST" enctype="multipart/form-data" class="upload-box">
+        <input type="file" name="image" accept="image/*" required />
+        <button type="submit">Upload & Detect</button>
+      </form>
+
+      <!-- Stats -->
+      <div class="stats">
+        <div class="card free">
+          <h2 id="free">{{ free }}</h2>
+          <p>Free Slots</p>
+        </div>
+
+        <div class="card occupied">
+          <h2 id="occupied">{{ occupied }}</h2>
+          <p>Occupied</p>
+        </div>
+
+        <div class="card total">
+          <h2 id="total">{{ total }}</h2>
+          <p>Total Slots</p>
+        </div>
+      </div>
+
+      <!-- Image -->
+      <div class="image-box">
+        <img
+          id="parking-img"
+          src="{{ url_for('static', filename='output.jpg') }}"
+        />
+      </div>
+
+      <div class="legend">
+        <span
+          ><div class="green-box"></div>
+          Free</span
+        >
+        <span
+          ><div class="red-box"></div>
+          Occupied</span
+        >
+      </div>
+    </div>
+
+    <script>
+      function refreshData() {
+        document.getElementById("parking-img").src =
+          "/static/output.jpg?t=" + new Date().getTime();
+
+        fetch("/stats")
+          .then((res) => res.json())
+          .then((data) => {
+            document.getElementById("free").textContent = data.free;
+            document.getElementById("occupied").textContent = data.occupied;
+            document.getElementById("total").textContent = data.total;
+          });
+      }
+
+      setInterval(refreshData, 120000);
+      refreshData();
+    </script>
+  </body>
+</html>

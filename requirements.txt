@@ -1,0 +1,25 @@
+# Core ML
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image/Video processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# Snowflake
+snowflake-connector-python>=3.0.0
+
+# Streamlit Dashboard
+streamlit>=1.30.0
+plotly>=5.18.0
+
+# Data handling
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization (for training reference)
+matplotlib>=3.7.0
+
+# Configuration
+python-dotenv>=1.0.0
